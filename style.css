@@ -61,18 +61,16 @@ body {
     }
 
     #videoescola {
-
-
+max-width:100%
         margin-left: 0px;
         margin-right: 0px;
 
     }
 
     #parabens {
+max-width:100%
         margin-left: 0px;
-        margin-right: 0px;
-
-    }
+        margin-right: 0px;}
 
     #material {
         margin-left: 0px;
