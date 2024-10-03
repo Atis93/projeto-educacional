@@ -9,8 +9,6 @@ body {
     color: #FFF;
     border: 1px solid;
     border-radius: 15px;
-    margin-left: 320px;
-    margin-right: 320px;
 }
 
 #videoescola {
@@ -18,14 +16,9 @@ body {
     color: #FFF;
     border: 1px solid;
     border-radius: 1px;
-    margin-left: 550px;
-    margin-right: 520px;
-
 }
 
 #parabens {
-    margin-left: 300px;
-    margin-right: 300px;
     border-radius: 15px;
     border: 1px solid;
     background-color: rgba(900, 0, 0, 1);
@@ -111,7 +104,6 @@ body {
   }
   
   @media only screen and (min-width: 600px) {
-    /* For tablets: */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
     .col-s-3 {width: 25%;}
