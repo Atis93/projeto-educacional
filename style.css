@@ -53,9 +53,6 @@ body {
     color: #fff;
     text-decoration: none;
 }
-#videointroducao {
-    border: 1px solid;
-}
 @media only screen and (max-width: 600px) {
     #introducao {
         margin-left: 0px;
