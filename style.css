@@ -50,6 +50,7 @@ body {
 }
 
 #botao {
+    background-color: grey;
     color: #fff;
     text-decoration: none;
 }
