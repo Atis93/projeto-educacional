@@ -55,20 +55,17 @@ body {
 }
 @media only screen and (max-width: 600px) {
     #introducao {
-
         margin-left: 0px;
         margin-right: 0px;
     }
 
     #videoescola {
-max-width:100%
         margin-left: 0px;
         margin-right: 0px;
 
     }
 
     #parabens {
-max-width:100%
         margin-left: 0px;
         margin-right: 0px;}
 
@@ -77,6 +74,7 @@ max-width:100%
         margin-right: 0px;
 
     }
+
     #botao {
     color: black;
     text-decoration: none;
