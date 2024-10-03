@@ -78,8 +78,8 @@ body {
     #videointroducao {
         margin-left: 0px;
         margin-right: 0px;
-        width:"auto"; 
-        height:"auto";    
+        max-width: 600px; 
+        max-height:350px;    
     }
 
     #botao {
