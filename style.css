@@ -50,7 +50,7 @@ body {
 }
 
 #botao {
-    color: black;
+    color: #fff;
     text-decoration: none;
 }
 @media only screen and (max-width: 600px) {
@@ -79,4 +79,8 @@ body {
         margin-right: 0px;
 
     }
+    #botao {
+    color: white;
+    text-decoration: none;
+}
 }
