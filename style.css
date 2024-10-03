@@ -14,10 +14,7 @@ body {
     margin-right: 300px;
 }
 #videoescola {
-     margin-left: 300px;
-    margin-right: 300px;
-    border-radius: 15px;
-    border: 1px solid;
+    border: solid;
     background-color: black;
     color: white;
     padding-bottom: 10px;
