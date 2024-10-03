@@ -77,6 +77,10 @@ body {
         margin-right: 0px;
 
     }
+    #videointroducao {
+        margin-left: 0px;
+        margin-right: 0px; 
+    }
 
     #botao {
     color: black;
